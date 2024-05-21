@@ -1,0 +1,19 @@
+.box{
+    width: 50px;
+    height: 50px;
+    background: rgba(128, 3, 245, 0.267);
+    margin: 20px;
+    display: inline-block;
+}
+
+.box1{
+    
+    background: rgba(229, 245, 3, 0.945);
+    
+}
+
+.box2{
+    
+    background: rgb(240, 70, 3);
+    
+}
